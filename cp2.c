@@ -13,5 +13,5 @@ int main()
 	scanf("%d%d%d",&t,&s,&b);
 	by=2*t*s*b*512;
 	kb=by/1024;
-	printf("Total Capacity = %.2f Kilobytes",kb);
+	printf("Capacity of the disk = %.2f Kilobytes",kb);
 }
