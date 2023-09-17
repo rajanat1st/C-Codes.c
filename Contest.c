@@ -18,6 +18,4 @@ int main()
 		printf("Professor will qualify");
 	else
 	printf("Professor will not qualify");
-	
-	
 }
