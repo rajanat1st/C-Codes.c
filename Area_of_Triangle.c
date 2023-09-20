@@ -1,4 +1,5 @@
 // Write a program to compute the area of a triangle by reading base and height
+
 #include"stdio.h"
 int main()
 {
