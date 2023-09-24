@@ -1,4 +1,4 @@
-// Write a program to swap the values of 'a' and 'b' without using third variable
+// Write a program to swap the values of 'a' and 'b' without using third variable.
 #include<stdio.h>
 int main()
 {
