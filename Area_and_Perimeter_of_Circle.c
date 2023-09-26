@@ -1,4 +1,4 @@
-// Write program to calculate the area and perimeter of a circle by reading the radius
+// Write program to calculate the area and perimeter of a circle by reading the radius.
 #include<stdio.h>
 int main()
 {
