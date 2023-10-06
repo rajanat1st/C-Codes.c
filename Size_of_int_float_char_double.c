@@ -9,5 +9,5 @@ int main()
 	printf("The Size of int : %d",sizeof(n));
     printf("\nThe Size of float : %d",sizeof(f));
     printf("\nThe Size of char : %d",sizeof(ch));
-    printf("\nThe Size of int : %d",sizeof(d));
+    printf("\nThe Size of double : %d",sizeof(d));
 }
