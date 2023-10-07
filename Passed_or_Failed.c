@@ -29,7 +29,7 @@ A student is considered as PASS, if and only if he/she gets more than 34 marks i
     else
     {
 	printf("\nIndividual subject's marks should not be greater than 100! Please enter the valid marks again.\n");
-    result(1);
+    	result(1);
 	} 
 }
 int main()
@@ -58,6 +58,6 @@ int main()
     else
     {
 	printf("\nIndividual subject's marks should not be greater than 100! Please enter the valid marks again.\n");
-    result(1);
+   	result(1);
 	}
 }
