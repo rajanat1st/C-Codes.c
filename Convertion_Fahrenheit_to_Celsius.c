@@ -1,4 +1,4 @@
-// Program to convert Fahrenheit to Celcius.
+// Program to convert Fahrenheit to Celsius.
 #include<stdio.h>
 int main()
 {
